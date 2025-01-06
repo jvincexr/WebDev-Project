@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css?family=Maitree");
+
+
+body{
+  background-color: #eee9da;
+}
+.navbar-icon{
+  color: black;
+  position: fixed;
+  right: 20px;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+
